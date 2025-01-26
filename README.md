@@ -3,7 +3,7 @@
 
 ## About me
 
-Developer, speaker, distributed application addicted.
+ Distributed Systems | RabbitMQ Team Member | Open Source Addicted
 
 My YouTube channel https://www.youtube.com/@gsantomaggio
 
