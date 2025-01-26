@@ -1,7 +1,12 @@
 [<img src="/banner.png">]("https://www.youtube.com/@gsantomaggio")
 
 
-## Hi there 👋
+## About me
+
+Developer, speaker, distributed application addicted.
+
+My YouTube channel https://www.youtube.com/@gsantomaggio
+
 
 
 <!--
